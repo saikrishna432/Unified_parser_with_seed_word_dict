@@ -1,0 +1,580 @@
+0:2 अंडरवुड	(set! wordstruct '( (( "a" "q" "dx" ) 0) (( "r" "a" ) 0) (( "w" "u" "dx" ) 0) ))
+
+0:3 अंडरवुड	(set! wordstruct '( (( "a" "q" ) 0) (( "dx" "a" "r" ) 0) (( "w" "u" "dx" ) 0) ))
+
+6:2 अग्रवाल	(set! wordstruct '( (( "a" "g" ) 0) (( "r" "a" ) 0) (( "w" "aa" "l" ) 0) ))
+
+6:3 अग्रवाल	(set! wordstruct '( (( "a" "g" "r" ) 0) (( "w" "aa" "l" ) 0) ))
+
+10:2 अदालती	(set! wordstruct '( (( "a" ) 0) (( "d" "aa" "l" ) 0) (( "t" "ii" ) 0) ))
+
+10:3 अदालती	(set! wordstruct '( (( "a" ) 0) (( "d" "aa" ) 0) (( "l" "a" ) 0) (( "t" "ii" ) 0) ))
+
+11:2 अधजगे	(set! wordstruct '( (( "a" ) 0) (( "dh" "a" "j" ) 0) (( "g" "ee" ) 0) ))
+
+11:3 अधजगे	(set! wordstruct '( (( "a" "dh" ) 0) (( "j" "a" ) 0) (( "g" "ee" ) 0) ))
+
+12:2 अधिकतर	(set! wordstruct '( (( "a" ) 0) (( "dh" "i" "k" ) 0) (( "t" "a" "r" ) 0) ))
+
+12:3 अधिकतर	(set! wordstruct '( (( "a" ) 0) (( "dh" "i" ) 0) (( "k" "a" ) 0) (( "t" "a" "r" ) 0) ))
+
+15:2 अधिपति	(set! wordstruct '( (( "a" ) 0) (( "dh" "i" "p" ) 0) (( "t" "i" ) 0) ))
+
+15:3 अधिपति	(set! wordstruct '( (( "a" ) 0) (( "dh" "i" ) 0) (( "p" "a" ) 0) (( "t" "i" ) 0) ))
+
+17:2 अनिष्ट	(set! wordstruct '( (( "a" ) 0) (( "n" "i" "sx" "tx" ) 0) ))
+
+17:3 अनिष्ट	(set! wordstruct '( (( "a" ) 0) (( "n" "i" ) 0) (( "sx" "tx" "a" ) 0) ))
+
+18:2 अनिष्टकारी	(set! wordstruct '( (( "a" ) 0) (( "n" "i" "sx" ) 0) (( "tx" "a" ) 0) (( "k" "aa" ) 0) (( "r" "ii" ) 0) ))
+
+18:3 अनिष्टकारी	(set! wordstruct '( (( "a" ) 0) (( "n" "i" ) 0) (( "sx" "tx" "a" ) 0) (( "k" "aa" ) 0) (( "r" "ii" ) 0) ))
+
+20:2 अनुचरों	(set! wordstruct '( (( "a" ) 0) (( "n" "u" "c" ) 0) (( "r" "o" "q" ) 0) ))
+
+20:3 अनुचरों	(set! wordstruct '( (( "a" ) 0) (( "n" "u" ) 0) (( "c" "a" ) 0) (( "r" "o" "q" ) 0) ))
+
+22:2 अनुमति	(set! wordstruct '( (( "a" ) 0) (( "n" "u" "m" ) 0) (( "t" "i" ) 0) ))
+
+22:3 अनुमति	(set! wordstruct '( (( "a" ) 0) (( "n" "u" ) 0) (( "m" "a" ) 0) (( "t" "i" ) 0) ))
+
+30:2 अन्तरिक्ष	(set! wordstruct '( (( "a" "n" ) 0) (( "t" "a" ) 0) (( "r" "i" "k" "sx" ) 0) ))
+
+30:3 अन्तरिक्ष	(set! wordstruct '( (( "a" "n" ) 0) (( "t" "a" ) 0) (( "r" "i" ) 0) (( "k" "sx" "a" ) 0) ))
+
+35:2 अपनत्व	(set! wordstruct '( (( "a" "p" ) 0) (( "n" "a" "t" "w" ) 0) ))
+
+35:3 अपनत्व	(set! wordstruct '( (( "a" ) 0) (( "p" "a" "n" ) 0) (( "t" "w" "a" ) 0) ))
+
+38:2 अपहरण	(set! wordstruct '( (( "a" ) 0) (( "p" "a" "h" ) 0) (( "r" "a" "nx" ) 0) ))
+
+38:3 अपहरण	(set! wordstruct '( (( "a" "p" ) 0) (( "h" "a" ) 0) (( "r" "a" "nx" ) 0) ))
+
+41:2 अमरकोश	(set! wordstruct '( (( "a" "m" ) 0) (( "r" "a" ) 0) (( "k" "o" "sh" ) 0) ))
+
+41:3 अमरकोश	(set! wordstruct '( (( "a" ) 0) (( "m" "a" "r" ) 0) (( "k" "o" "sh" ) 0) ))
+
+45:2 अर्थवान	(set! wordstruct '( (( "a" "r" ) 0) (( "th" "a" ) 0) (( "w" "aa" "n" ) 0) ))
+
+45:3 अर्थवान	(set! wordstruct '( (( "a" "r" "th" ) 0) (( "w" "aa" "n" ) 0) ))
+
+46:2 अर्थहीन	(set! wordstruct '( (( "a" "r" ) 0) (( "th" "a" ) 0) (( "h" "ii" "n" ) 0) ))
+
+46:3 अर्थहीन	(set! wordstruct '( (( "a" "r" "th" ) 0) (( "h" "ii" "n" ) 0) ))
+
+49:2 अवकाश	(set! wordstruct '( (( "a" ) 0) (( "w" "a" ) 0) (( "k" "aa" "sh" ) 0) ))
+
+49:3 अवकाश	(set! wordstruct '( (( "a" "w" ) 0) (( "k" "aa" "sh" ) 0) ))
+
+50:2 अवगत	(set! wordstruct '( (( "a" ) 0) (( "w" "a" ) 0) (( "g" "a" "t" ) 0) ))
+
+50:3 अवगत	(set! wordstruct '( (( "a" "w" ) 0) (( "g" "a" "t" ) 0) ))
+
+51:2 अवरोध	(set! wordstruct '( (( "a" ) 0) (( "w" "a" ) 0) (( "r" "o" "dh" ) 0) ))
+
+51:3 अवरोध	(set! wordstruct '( (( "a" "w" ) 0) (( "r" "o" "dh" ) 0) ))
+
+52:2 अवरोधक	(set! wordstruct '( (( "a" ) 0) (( "w" "a" ) 0) (( "r" "o" ) 0) (( "dh" "a" "k" ) 0) ))
+
+52:3 अवरोधक	(set! wordstruct '( (( "a" "w" ) 0) (( "r" "o" ) 0) (( "dh" "a" "k" ) 0) ))
+
+53:2 अवशोषण	(set! wordstruct '( (( "a" ) 0) (( "w" "a" ) 0) (( "sh" "o" ) 0) (( "sx" "a" "nx" ) 0) ))
+
+53:3 अवशोषण	(set! wordstruct '( (( "a" "w" ) 0) (( "sh" "o" ) 0) (( "sx" "a" "nx" ) 0) ))
+
+54:2 अवसर	(set! wordstruct '( (( "a" ) 0) (( "w" "a" ) 0) (( "s" "a" "r" ) 0) ))
+
+54:3 अवसर	(set! wordstruct '( (( "a" "w" ) 0) (( "s" "a" "r" ) 0) ))
+
+55:2 अवस्था	(set! wordstruct '( (( "a" ) 0) (( "w" "a" "s" ) 0) (( "th" "aa" ) 0) ))
+
+55:3 अवस्था	(set! wordstruct '( (( "a" "w" ) 0) (( "s" "th" "aa" ) 0) ))
+
+56:2 असरदार	(set! wordstruct '( (( "a" "s" ) 0) (( "r" "a" ) 0) (( "d" "aa" "r" ) 0) ))
+
+56:3 असरदार	(set! wordstruct '( (( "a" ) 0) (( "s" "a" "r" ) 0) (( "d" "aa" "r" ) 0) ))
+
+57:2 अस्त्र	(set! wordstruct '( (( "a" "s" "t" "r" ) 0) ))
+
+57:3 अस्त्र	(set! wordstruct '( (( "a" "s" ) 0) (( "t" "r" "a" ) 0) ))
+
+76:2 आलसब	(set! wordstruct '( (( "aa" ) 0) (( "l" "a" ) 0) (( "s" "a" "b" ) 0) ))
+
+76:3 आलसब	(set! wordstruct '( (( "aa" "l" ) 0) (( "s" "a" "b" ) 0) ))
+
+80:2 इंटरव्यू	(set! wordstruct '( (( "i" "q" "tx" ) 0) (( "r" "a" "w" ) 0) (( "y" "uu" ) 0) ))
+
+80:3 इंटरव्यू	(set! wordstruct '( (( "i" "q" ) 0) (( "tx" "a" "r" ) 0) (( "w" "y" "uu" ) 0) ))
+
+89:2 इन्द्र	(set! wordstruct '( (( "i" "n" "d" "r" ) 0) ))
+
+89:3 इन्द्र	(set! wordstruct '( (( "i" "n" ) 0) (( "d" "r" "a" ) 0) ))
+
+100:2 उगलती	(set! wordstruct '( (( "u" ) 0) (( "g" "a" "l" ) 0) (( "t" "ii" ) 0) ))
+
+100:3 उगलती	(set! wordstruct '( (( "u" "g" ) 0) (( "l" "a" ) 0) (( "t" "ii" ) 0) ))
+
+101:2 उगलते	(set! wordstruct '( (( "u" ) 0) (( "g" "a" "l" ) 0) (( "t" "ee" ) 0) ))
+
+101:3 उगलते	(set! wordstruct '( (( "u" "g" ) 0) (( "l" "a" ) 0) (( "t" "ee" ) 0) ))
+
+102:2 उछालकर	(set! wordstruct '( (( "u" ) 0) (( "ch" "aa" "l" ) 0) (( "k" "a" "r" ) 0) ))
+
+102:3 उछालकर	(set! wordstruct '( (( "u" ) 0) (( "ch" "aa" ) 0) (( "l" "a" ) 0) (( "k" "a" "r" ) 0) ))
+
+103:2 उछालने	(set! wordstruct '( (( "u" ) 0) (( "ch" "aa" "l" ) 0) (( "n" "ee" ) 0) ))
+
+103:3 उछालने	(set! wordstruct '( (( "u" ) 0) (( "ch" "aa" ) 0) (( "l" "a" ) 0) (( "n" "ee" ) 0) ))
+
+105:2 उदयसिंह	(set! wordstruct '( (( "u" "d" ) 0) (( "y" "a" ) 0) (( "s" "i" "q" "h" ) 0) ))
+
+105:3 उदयसिंह	(set! wordstruct '( (( "u" ) 0) (( "d" "a" "y" ) 0) (( "s" "i" "q" "h" ) 0) ))
+
+107:2 उपकरण	(set! wordstruct '( (( "u" "p" ) 0) (( "k" "a" ) 0) (( "r" "a" "nx" ) 0) ))
+
+107:3 उपकरण	(set! wordstruct '( (( "u" ) 0) (( "p" "a" "k" ) 0) (( "r" "a" "nx" ) 0) ))
+
+110:2 उपजीव्य	(set! wordstruct '( (( "u" "p" ) 0) (( "j" "ii" "w" "y" ) 0) ))
+
+110:3 उपजीव्य	(set! wordstruct '( (( "u" "p" ) 0) (( "j" "ii" ) 0) (( "w" "y" "a" ) 0) ))
+
+114:2 उम्रक़ैद	(set! wordstruct '( (( "u" "m" ) 0) (( "r" "a" ) 0) (( "kq" "ei" "d" ) 0) ))
+
+114:3 उम्रक़ैद	(set! wordstruct '( (( "u" "m" "r" ) 0) (( "kq" "ei" "d" ) 0) ))
+
+115:2 उल्लसित	(set! wordstruct '( (( "u" "l" ) 0) (( "l" "a" ) 0) (( "s" "i" "t" ) 0) ))
+
+115:3 उल्लसित	(set! wordstruct '( (( "u" "l" "l" ) 0) (( "s" "i" "t" ) 0) ))
+
+116:2 उल्वद्रव	(set! wordstruct '( (( "u" "l" ) 0) (( "w" "a" "d" ) 0) (( "r" "a" "w" ) 0) ))
+
+116:3 उल्वद्रव	(set! wordstruct '( (( "u" "l" "w" ) 0) (( "d" "r" "a" "w" ) 0) ))
+
+117:2 ऊपरवाले	(set! wordstruct '( (( "uu" "p" ) 0) (( "r" "a" ) 0) (( "w" "aa" ) 0) (( "l" "ee" ) 0) ))
+
+117:3 ऊपरवाले	(set! wordstruct '( (( "uu" ) 0) (( "p" "a" "r" ) 0) (( "w" "aa" ) 0) (( "l" "ee" ) 0) ))
+
+119:2 एकत्र	(set! wordstruct '( (( "ee" ) 0) (( "k" "a" "t" "r" ) 0) ))
+
+119:3 एकत्र	(set! wordstruct '( (( "ee" "k" ) 0) (( "t" "r" "a" ) 0) ))
+
+121:2 एकलव्य	(set! wordstruct '( (( "ee" "k" ) 0) (( "l" "a" "w" "y" ) 0) ))
+
+121:3 एकलव्य	(set! wordstruct '( (( "ee" ) 0) (( "k" "a" "l" ) 0) (( "w" "y" "a" ) 0) ))
+
+128:2 कमज़ोर	(set! wordstruct '( (( "k" "a" ) 0) (( "m" "a" ) 0) (( "z" "o" "r" ) 0) ))
+
+128:3 कमज़ोर	(set! wordstruct '( (( "k" "a" "m" ) 0) (( "z" "o" "r" ) 0) ))
+
+129:2 कमज़ोर	(set! wordstruct '( (( "k" "a" ) 0) (( "m" "a" ) 0) (( "z" "o" "r" ) 0) ))
+
+129:3 कमज़ोर	(set! wordstruct '( (( "k" "a" "m" ) 0) (( "z" "o" "r" ) 0) ))
+
+146:2 कुशलता	(set! wordstruct '( (( "k" "u" ) 0) (( "sh" "a" "l" ) 0) (( "t" "aa" ) 0) ))
+
+146:3 कुशलता	(set! wordstruct '( (( "k" "u" "sh" ) 0) (( "l" "a" ) 0) (( "t" "aa" ) 0) ))
+
+147:2 क्षमता	(set! wordstruct '( (( "k" "sx" "a" "m" ) 0) (( "t" "aa" ) 0) ))
+
+147:3 क्षमता	(set! wordstruct '( (( "k" "sx" "a" ) 0) (( "m" "a" ) 0) (( "t" "aa" ) 0) ))
+
+149:2 क्षेत्र	(set! wordstruct '( (( "k" "sx" "ee" "t" "r" ) 0) ))
+
+149:3 क्षेत्र	(set! wordstruct '( (( "k" "sx" "ee" ) 0) (( "t" "r" "a" ) 0) ))
+
+151:2 खरीदने	(set! wordstruct '( (( "kh" "a" ) 0) (( "r" "ii" "d" ) 0) (( "n" "ee" ) 0) ))
+
+151:3 खरीदने	(set! wordstruct '( (( "kh" "a" ) 0) (( "r" "ii" ) 0) (( "d" "a" ) 0) (( "n" "ee" ) 0) ))
+
+152:2 खलबली	(set! wordstruct '( (( "kh" "a" ) 0) (( "l" "a" "b" ) 0) (( "l" "ii" ) 0) ))
+
+152:3 खलबली	(set! wordstruct '( (( "kh" "a" "l" ) 0) (( "b" "a" ) 0) (( "l" "ii" ) 0) ))
+
+155:2 खांसकर	(set! wordstruct '( (( "kh" "aa" "q" ) 0) (( "s" "a" ) 0) (( "k" "a" "r" ) 0) ))
+
+155:3 खांसकर	(set! wordstruct '( (( "kh" "aa" "q" "s" ) 0) (( "k" "a" "r" ) 0) ))
+
+162:2 गर्भवस्था	(set! wordstruct '( (( "g" "a" "r" ) 0) (( "bh" "a" ) 0) (( "w" "a" "s" ) 0) (( "th" "aa" ) 0) ))
+
+162:3 गर्भवस्था	(set! wordstruct '( (( "g" "a" "r" ) 0) (( "bh" "a" "w" ) 0) (( "s" "th" "aa" ) 0) ))
+
+163:2 गर्भावस्था	(set! wordstruct '( (( "g" "a" "r" ) 0) (( "bh" "aa" ) 0) (( "w" "a" "s" ) 0) (( "th" "aa" ) 0) ))
+
+163:3 गर्भावस्था	(set! wordstruct '( (( "g" "a" "r" ) 0) (( "bh" "aa" "w" ) 0) (( "s" "th" "aa" ) 0) ))
+
+164:2 गांववासी	(set! wordstruct '( (( "g" "aa" "q" ) 0) (( "w" "a" ) 0) (( "w" "aa" ) 0) (( "s" "ii" ) 0) ))
+
+164:3 गांववासी	(set! wordstruct '( (( "g" "aa" "q" "w" ) 0) (( "w" "aa" ) 0) (( "s" "ii" ) 0) ))
+
+176:2 ग्रेगरी	(set! wordstruct '( (( "g" "r" "ee" "g" ) 0) (( "r" "ii" ) 0) ))
+
+176:3 ग्रेगरी	(set! wordstruct '( (( "g" "r" "ee" ) 0) (( "g" "a" ) 0) (( "r" "ii" ) 0) ))
+
+187:2 चालढ़ाल	(set! wordstruct '( (( "c" "aa" ) 0) (( "l" "a" ) 0) (( "dxhq" "aa" "l" ) 0) ))
+
+187:3 चालढ़ाल	(set! wordstruct '( (( "c" "aa" "l" ) 0) (( "dxhq" "aa" "l" ) 0) ))
+
+194:2 छिड़कते	(set! wordstruct '( (( "ch" "i" ) 0) (( "dxq" "a" "k" ) 0) (( "t" "ee" ) 0) ))
+
+194:3 छिड़कते	(set! wordstruct '( (( "ch" "i" "dxq" ) 0) (( "k" "a" ) 0) (( "t" "ee" ) 0) ))
+
+199:2 जनवरी	(set! wordstruct '( (( "j" "a" ) 0) (( "n" "a" "w" ) 0) (( "r" "ii" ) 0) ))
+
+199:3 जनवरी	(set! wordstruct '( (( "j" "a" "n" ) 0) (( "w" "a" ) 0) (( "r" "ii" ) 0) ))
+
+204:2 जमावड़ा	(set! wordstruct '( (( "j" "a" ) 0) (( "m" "aa" "w" ) 0) (( "dxq" "aa" ) 0) ))
+
+204:3 जमावड़ा	(set! wordstruct '( (( "j" "a" ) 0) (( "m" "aa" ) 0) (( "w" "a" ) 0) (( "dxq" "aa" ) 0) ))
+
+206:2 जयप्रकाश	(set! wordstruct '( (( "j" "a" ) 0) (( "y" "a" "p" ) 0) (( "r" "a" ) 0) (( "k" "aa" "sh" ) 0) ))
+
+206:3 जयप्रकाश	(set! wordstruct '( (( "j" "a" "y" ) 0) (( "p" "r" "a" ) 0) (( "k" "aa" "sh" ) 0) ))
+
+217:2 टीएनटी	(set! wordstruct '( (( "tx" "ii" ) 0) (( "ee" "n" ) 0) (( "tx" "ii" ) 0) ))
+
+217:3 टीएनटी	(set! wordstruct '( (( "tx" "ii" ) 0) (( "ee" ) 0) (( "n" "a" ) 0) (( "tx" "ii" ) 0) ))
+
+221:2 ट्रावनकोर	(set! wordstruct '( (( "tx" "r" "aa" "w" ) 0) (( "n" "a" ) 0) (( "k" "o" "r" ) 0) ))
+
+221:3 ट्रावनकोर	(set! wordstruct '( (( "tx" "r" "aa" ) 0) (( "w" "a" "n" ) 0) (( "k" "o" "r" ) 0) ))
+
+224:2 डरावने	(set! wordstruct '( (( "dx" "a" ) 0) (( "r" "aa" "w" ) 0) (( "n" "ee" ) 0) ))
+
+224:3 डरावने	(set! wordstruct '( (( "dx" "a" ) 0) (( "r" "aa" ) 0) (( "w" "a" ) 0) (( "n" "ee" ) 0) ))
+
+232:2 तलाशकर	(set! wordstruct '( (( "t" "a" ) 0) (( "l" "aa" "sh" ) 0) (( "k" "a" "r" ) 0) ))
+
+232:3 तलाशकर	(set! wordstruct '( (( "t" "a" ) 0) (( "l" "aa" ) 0) (( "sh" "a" ) 0) (( "k" "a" "r" ) 0) ))
+
+243:2 दबदबा	(set! wordstruct '( (( "d" "a" ) 0) (( "b" "a" "d" ) 0) (( "b" "aa" ) 0) ))
+
+243:3 दबदबा	(set! wordstruct '( (( "d" "a" "b" ) 0) (( "d" "a" ) 0) (( "b" "aa" ) 0) ))
+
+246:2 दरअसल	(set! wordstruct '( (( "d" "a" ) 0) (( "r" "a" ) 0) (( "a" ) 0) (( "s" "a" "l" ) 0) ))
+
+246:3 दरअसल	(set! wordstruct '( (( "d" "a" "r" ) 0) (( "a" ) 0) (( "s" "a" "l" ) 0) ))
+
+259:2 धाराप्रवाह	(set! wordstruct '( (( "dh" "aa" ) 0) (( "r" "aa" "p" ) 0) (( "r" "a" ) 0) (( "w" "aa" "h" ) 0) ))
+
+259:3 धाराप्रवाह	(set! wordstruct '( (( "dh" "aa" ) 0) (( "r" "aa" ) 0) (( "p" "r" "a" ) 0) (( "w" "aa" "h" ) 0) ))
+
+262:2 नक्षत्र	(set! wordstruct '( (( "n" "a" "k" ) 0) (( "sx" "a" "t" "r" ) 0) ))
+
+262:3 नक्षत्र	(set! wordstruct '( (( "n" "a" "k" "sx" ) 0) (( "t" "r" "a" ) 0) ))
+
+264:2 नटवरलाल	(set! wordstruct '( (( "n" "a" ) 0) (( "tx" "a" "w" ) 0) (( "r" "a" ) 0) (( "l" "aa" "l" ) 0) ))
+
+264:3 नटवरलाल	(set! wordstruct '( (( "n" "a" "tx" ) 0) (( "w" "a" "r" ) 0) (( "l" "aa" "l" ) 0) ))
+
+272:2 पटकते	(set! wordstruct '( (( "p" "a" ) 0) (( "tx" "a" "k" ) 0) (( "t" "ee" ) 0) ))
+
+272:3 पटकते	(set! wordstruct '( (( "p" "a" "tx" ) 0) (( "k" "a" ) 0) (( "t" "ee" ) 0) ))
+
+273:2 पटकथा	(set! wordstruct '( (( "p" "a" ) 0) (( "tx" "a" "k" ) 0) (( "th" "aa" ) 0) ))
+
+273:3 पटकथा	(set! wordstruct '( (( "p" "a" "tx" ) 0) (( "k" "a" ) 0) (( "th" "aa" ) 0) ))
+
+279:2 पत्रकार	(set! wordstruct '( (( "p" "a" "t" ) 0) (( "r" "a" ) 0) (( "k" "aa" "r" ) 0) ))
+
+279:3 पत्रकार	(set! wordstruct '( (( "p" "a" "t" "r" ) 0) (( "k" "aa" "r" ) 0) ))
+
+280:2 पत्रव्यवहार	(set! wordstruct '( (( "p" "a" "t" ) 0) (( "r" "a" "w" ) 0) (( "y" "a" ) 0) (( "w" "a" ) 0) (( "h" "aa" "r" ) 0) ))
+
+280:3 पत्रव्यवहार	(set! wordstruct '( (( "p" "a" "t" "r" ) 0) (( "w" "y" "a" ) 0) (( "w" "a" ) 0) (( "h" "aa" "r" ) 0) ))
+
+283:2 पनपने	(set! wordstruct '( (( "p" "a" ) 0) (( "n" "a" "p" ) 0) (( "n" "ee" ) 0) ))
+
+283:3 पनपने	(set! wordstruct '( (( "p" "a" "n" ) 0) (( "p" "a" ) 0) (( "n" "ee" ) 0) ))
+
+287:2 परिजनो	(set! wordstruct '( (( "p" "a" ) 0) (( "r" "i" "j" ) 0) (( "n" "o" ) 0) ))
+
+287:3 परिजनो	(set! wordstruct '( (( "p" "a" ) 0) (( "r" "i" ) 0) (( "j" "a" ) 0) (( "n" "o" ) 0) ))
+
+290:2 परिवहन	(set! wordstruct '( (( "p" "a" ) 0) (( "r" "i" "w" ) 0) (( "h" "a" "n" ) 0) ))
+
+290:3 परिवहन	(set! wordstruct '( (( "p" "a" ) 0) (( "r" "i" ) 0) (( "w" "a" ) 0) (( "h" "a" "n" ) 0) ))
+
+296:2 परोक्ष	(set! wordstruct '( (( "p" "a" ) 0) (( "r" "o" "k" "sx" ) 0) ))
+
+296:3 परोक्ष	(set! wordstruct '( (( "p" "a" ) 0) (( "r" "o" ) 0) (( "k" "sx" "a" ) 0) ))
+
+297:2 परोसने	(set! wordstruct '( (( "p" "a" ) 0) (( "r" "o" "s" ) 0) (( "n" "ee" ) 0) ))
+
+297:3 परोसने	(set! wordstruct '( (( "p" "a" ) 0) (( "r" "o" ) 0) (( "s" "a" ) 0) (( "n" "ee" ) 0) ))
+
+298:2 पर्सनल	(set! wordstruct '( (( "p" "a" "r" ) 0) (( "s" "a" ) 0) (( "n" "a" "l" ) 0) ))
+
+298:3 पर्सनल	(set! wordstruct '( (( "p" "a" "r" "s" ) 0) (( "n" "a" "l" ) 0) ))
+
+304:2 पुरज़ोर	(set! wordstruct '( (( "p" "u" ) 0) (( "r" "a" ) 0) (( "z" "o" "r" ) 0) ))
+
+304:3 पुरज़ोर	(set! wordstruct '( (( "p" "u" "r" ) 0) (( "z" "o" "r" ) 0) ))
+
+315:2 प्रथमा	(set! wordstruct '( (( "p" "r" "a" "th" ) 0) (( "m" "aa" ) 0) ))
+
+315:3 प्रथमा	(set! wordstruct '( (( "p" "r" "a" ) 0) (( "th" "a" ) 0) (( "m" "aa" ) 0) ))
+
+335:2 प्रस्थ	(set! wordstruct '( (( "p" "r" "a" "s" "th" ) 0) ))
+
+335:3 प्रस्थ	(set! wordstruct '( (( "p" "r" "a" ) 0) (( "s" "th" "a" ) 0) ))
+
+341:2 फेरबदल	(set! wordstruct '( (( "ph" "ee" ) 0) (( "r" "a" "b" ) 0) (( "d" "a" "l" ) 0) ))
+
+341:3 फेरबदल	(set! wordstruct '( (( "ph" "ee" "r" ) 0) (( "b" "a" ) 0) (( "d" "a" "l" ) 0) ))
+
+349:2 बढ़ोतरी	(set! wordstruct '( (( "b" "a" ) 0) (( "dxhq" "o" "t" ) 0) (( "r" "ii" ) 0) ))
+
+349:3 बढ़ोतरी	(set! wordstruct '( (( "b" "a" ) 0) (( "dxhq" "o" ) 0) (( "t" "a" ) 0) (( "r" "ii" ) 0) ))
+
+354:2 बनावटी	(set! wordstruct '( (( "b" "a" ) 0) (( "n" "aa" "w" ) 0) (( "tx" "ii" ) 0) ))
+
+354:3 बनावटी	(set! wordstruct '( (( "b" "a" ) 0) (( "n" "aa" ) 0) (( "w" "a" ) 0) (( "tx" "ii" ) 0) ))
+
+358:2 बरतने	(set! wordstruct '( (( "b" "a" ) 0) (( "r" "a" "t" ) 0) (( "n" "ee" ) 0) ))
+
+358:3 बरतने	(set! wordstruct '( (( "b" "a" "r" ) 0) (( "t" "a" ) 0) (( "n" "ee" ) 0) ))
+
+359:2 बरसने	(set! wordstruct '( (( "b" "a" ) 0) (( "r" "a" "s" ) 0) (( "n" "ee" ) 0) ))
+
+359:3 बरसने	(set! wordstruct '( (( "b" "a" "r" ) 0) (( "s" "a" ) 0) (( "n" "ee" ) 0) ))
+
+364:2 बहरहाल	(set! wordstruct '( (( "b" "a" "h" ) 0) (( "r" "a" ) 0) (( "h" "aa" "l" ) 0) ))
+
+364:3 बहरहाल	(set! wordstruct '( (( "b" "a" ) 0) (( "h" "a" "r" ) 0) (( "h" "aa" "l" ) 0) ))
+
+367:2 बहुलतावादी	(set! wordstruct '( (( "b" "a" ) 0) (( "h" "u" "l" ) 0) (( "t" "aa" ) 0) (( "w" "aa" ) 0) (( "d" "ii" ) 0) ))
+
+367:3 बहुलतावादी	(set! wordstruct '( (( "b" "a" ) 0) (( "h" "u" ) 0) (( "l" "a" ) 0) (( "t" "aa" ) 0) (( "w" "aa" ) 0) (( "d" "ii" ) 0) ))
+
+370:2 बारहमासी	(set! wordstruct '( (( "b" "aa" "r" ) 0) (( "h" "a" ) 0) (( "m" "aa" ) 0) (( "s" "ii" ) 0) ))
+
+370:3 बारहमासी	(set! wordstruct '( (( "b" "aa" ) 0) (( "r" "a" "h" ) 0) (( "m" "aa" ) 0) (( "s" "ii" ) 0) ))
+
+371:2 बारादरी	(set! wordstruct '( (( "b" "aa" ) 0) (( "r" "aa" "d" ) 0) (( "r" "ii" ) 0) ))
+
+371:3 बारादरी	(set! wordstruct '( (( "b" "aa" ) 0) (( "r" "aa" ) 0) (( "d" "a" ) 0) (( "r" "ii" ) 0) ))
+
+382:2 भंवरजाल	(set! wordstruct '( (( "bh" "a" "q" ) 0) (( "w" "a" ) 0) (( "r" "a" ) 0) (( "j" "aa" "l" ) 0) ))
+
+382:3 भंवरजाल	(set! wordstruct '( (( "bh" "a" "q" ) 0) (( "w" "a" "r" ) 0) (( "j" "aa" "l" ) 0) ))
+
+383:2 भटकते	(set! wordstruct '( (( "bh" "a" ) 0) (( "tx" "a" "k" ) 0) (( "t" "ee" ) 0) ))
+
+383:3 भटकते	(set! wordstruct '( (( "bh" "a" "tx" ) 0) (( "k" "a" ) 0) (( "t" "ee" ) 0) ))
+
+392:2 मंहगाई	(set! wordstruct '( (( "m" "a" "q" ) 0) (( "h" "a" ) 0) (( "g" "aa" ) 0) (( "ii" ) 0) ))
+
+392:3 मंहगाई	(set! wordstruct '( (( "m" "a" "q" "h" ) 0) (( "g" "aa" ) 0) (( "ii" ) 0) ))
+
+399:2 मनियम	(set! wordstruct '( (( "m" "a" ) 0) (( "n" "i" "y" "m" ) 0) ))
+
+399:3 मनियम	(set! wordstruct '( (( "m" "a" ) 0) (( "n" "i" ) 0) (( "y" "a" "m" ) 0) ))
+
+401:2 मनोदशा	(set! wordstruct '( (( "m" "a" ) 0) (( "n" "o" "d" ) 0) (( "sh" "aa" ) 0) ))
+
+401:3 मनोदशा	(set! wordstruct '( (( "m" "a" ) 0) (( "n" "o" ) 0) (( "d" "a" ) 0) (( "sh" "aa" ) 0) ))
+
+405:2 मनोरमा	(set! wordstruct '( (( "m" "a" ) 0) (( "n" "o" "r" ) 0) (( "m" "aa" ) 0) ))
+
+405:3 मनोरमा	(set! wordstruct '( (( "m" "a" ) 0) (( "n" "o" ) 0) (( "r" "a" ) 0) (( "m" "aa" ) 0) ))
+
+414:2 महाबलि	(set! wordstruct '( (( "m" "a" ) 0) (( "h" "aa" "b" ) 0) (( "l" "i" ) 0) ))
+
+414:3 महाबलि	(set! wordstruct '( (( "m" "a" ) 0) (( "h" "aa" ) 0) (( "b" "a" ) 0) (( "l" "i" ) 0) ))
+
+421:2 महासचिव	(set! wordstruct '( (( "m" "a" ) 0) (( "h" "aa" "s" ) 0) (( "c" "i" "w" ) 0) ))
+
+421:3 महासचिव	(set! wordstruct '( (( "m" "a" ) 0) (( "h" "aa" ) 0) (( "s" "a" ) 0) (( "c" "i" "w" ) 0) ))
+
+429:2 मिलिट्री	(set! wordstruct '( (( "m" "i" ) 0) (( "l" "i" "tx" ) 0) (( "r" "ii" ) 0) ))
+
+429:3 मिलिट्री	(set! wordstruct '( (( "m" "i" ) 0) (( "l" "i" ) 0) (( "tx" "r" "ii" ) 0) ))
+
+431:2 मूंड़वाली	(set! wordstruct '( (( "m" "uu" "q" ) 0) (( "dxq" "a" ) 0) (( "w" "aa" ) 0) (( "l" "ii" ) 0) ))
+
+431:3 मूंड़वाली	(set! wordstruct '( (( "m" "uu" "q" "dxq" ) 0) (( "w" "aa" ) 0) (( "l" "ii" ) 0) ))
+
+437:2 यशोधरा	(set! wordstruct '( (( "y" "a" ) 0) (( "sh" "o" "dh" ) 0) (( "r" "aa" ) 0) ))
+
+437:3 यशोधरा	(set! wordstruct '( (( "y" "a" ) 0) (( "sh" "o" ) 0) (( "dh" "a" ) 0) (( "r" "aa" ) 0) ))
+
+443:2 रचनाशीलता	(set! wordstruct '( (( "r" "a" "c" ) 0) (( "n" "aa" ) 0) (( "sh" "ii" "l" ) 0) (( "t" "aa" ) 0) ))
+
+443:3 रचनाशीलता	(set! wordstruct '( (( "r" "a" "c" ) 0) (( "n" "aa" ) 0) (( "sh" "ii" ) 0) (( "l" "a" ) 0) (( "t" "aa" ) 0) ))
+
+447:2 राजमती	(set! wordstruct '( (( "r" "aa" ) 0) (( "j" "a" "m" ) 0) (( "t" "ii" ) 0) ))
+
+447:3 राजमती	(set! wordstruct '( (( "r" "aa" "j" ) 0) (( "m" "a" ) 0) (( "t" "ii" ) 0) ))
+
+451:2 रिपोर्ट	(set! wordstruct '( (( "r" "i" ) 0) (( "p" "o" "r" "tx" ) 0) ))
+
+451:3 रिपोर्ट	(set! wordstruct '( (( "r" "i" ) 0) (( "p" "o" ) 0) (( "r" "tx" "a" ) 0) ))
+
+458:2 रेंगरेंगकर	(set! wordstruct '( (( "r" "ee" "q" ) 0) (( "g" "a" ) 0) (( "r" "ee" "q" ) 0) (( "g" "a" ) 0) (( "k" "a" "r" ) 0) ))
+
+458:3 रेंगरेंगकर	(set! wordstruct '( (( "r" "ee" "q" "g" ) 0) (( "r" "ee" "q" "g" ) 0) (( "k" "a" "r" ) 0) ))
+
+464:2 लटकते	(set! wordstruct '( (( "l" "a" ) 0) (( "tx" "a" "k" ) 0) (( "t" "ee" ) 0) ))
+
+464:3 लटकते	(set! wordstruct '( (( "l" "a" "tx" ) 0) (( "k" "a" ) 0) (( "t" "ee" ) 0) ))
+
+471:2 लुभावना	(set! wordstruct '( (( "l" "u" ) 0) (( "bh" "aa" "w" ) 0) (( "n" "aa" ) 0) ))
+
+471:3 लुभावना	(set! wordstruct '( (( "l" "u" ) 0) (( "bh" "aa" ) 0) (( "w" "a" ) 0) (( "n" "aa" ) 0) ))
+
+473:2 लोकसभा	(set! wordstruct '( (( "l" "o" ) 0) (( "k" "a" "s" ) 0) (( "bh" "aa" ) 0) ))
+
+473:3 लोकसभा	(set! wordstruct '( (( "l" "o" "k" ) 0) (( "s" "a" ) 0) (( "bh" "aa" ) 0) ))
+
+476:2 वंशधर	(set! wordstruct '( (( "w" "a" "q" ) 0) (( "sh" "a" ) 0) (( "dh" "a" "r" ) 0) ))
+
+476:3 वंशधर	(set! wordstruct '( (( "w" "a" "q" "sh" ) 0) (( "dh" "a" "r" ) 0) ))
+
+477:2 वत्सलता	(set! wordstruct '( (( "w" "a" "t" ) 0) (( "s" "a" "l" ) 0) (( "t" "aa" ) 0) ))
+
+477:3 वत्सलता	(set! wordstruct '( (( "w" "a" "t" "s" ) 0) (( "l" "a" ) 0) (( "t" "aa" ) 0) ))
+
+479:2 वर्णमाला	(set! wordstruct '( (( "w" "a" "r" ) 0) (( "nx" "a" ) 0) (( "m" "aa" ) 0) (( "l" "aa" ) 0) ))
+
+479:3 वर्णमाला	(set! wordstruct '( (( "w" "a" "r" "nx" ) 0) (( "m" "aa" ) 0) (( "l" "aa" ) 0) ))
+
+482:2 वसंतराज	(set! wordstruct '( (( "w" "a" ) 0) (( "s" "a" "q" ) 0) (( "t" "a" ) 0) (( "r" "aa" "j" ) 0) ))
+
+482:3 वसंतराज	(set! wordstruct '( (( "w" "a" ) 0) (( "s" "a" "q" "t" ) 0) (( "r" "aa" "j" ) 0) ))
+
+483:2 वस्त्र	(set! wordstruct '( (( "w" "a" "s" "t" "r" ) 0) ))
+
+483:3 वस्त्र	(set! wordstruct '( (( "w" "a" "s" ) 0) (( "t" "r" "a" ) 0) ))
+
+484:2 वायरलैस	(set! wordstruct '( (( "w" "aa" "y" ) 0) (( "r" "a" ) 0) (( "l" "ei" "s" ) 0) ))
+
+484:3 वायरलैस	(set! wordstruct '( (( "w" "aa" ) 0) (( "y" "a" "r" ) 0) (( "l" "ei" "s" ) 0) ))
+
+488:2 विकल्प	(set! wordstruct '( (( "w" "i" ) 0) (( "k" "a" "l" "p" ) 0) ))
+
+488:3 विकल्प	(set! wordstruct '( (( "w" "i" "k" ) 0) (( "l" "p" "a" ) 0) ))
+
+495:2 विनष्ट	(set! wordstruct '( (( "w" "i" ) 0) (( "n" "a" "sx" "tx" ) 0) ))
+
+495:3 विनष्ट	(set! wordstruct '( (( "w" "i" "n" ) 0) (( "sx" "tx" "a" ) 0) ))
+
+498:2 विश्वामित्र	(set! wordstruct '( (( "w" "i" "sh" ) 0) (( "w" "aa" ) 0) (( "m" "i" "t" "r" ) 0) ))
+
+498:3 विश्वामित्र	(set! wordstruct '( (( "w" "i" "sh" ) 0) (( "w" "aa" ) 0) (( "m" "i" ) 0) (( "t" "r" "a" ) 0) ))
+
+502:2 व्यष्टि	(set! wordstruct '( (( "w" "y" "a" "sx" ) 0) (( "tx" "i" ) 0) ))
+
+502:3 व्यष्टि	(set! wordstruct '( (( "w" "y" "a" ) 0) (( "sx" "tx" "i" ) 0) ))
+
+503:2 शंकरन	(set! wordstruct '( (( "sh" "a" "q" ) 0) (( "k" "a" ) 0) (( "r" "a" "n" ) 0) ))
+
+503:3 शंकरन	(set! wordstruct '( (( "sh" "a" "q" "k" ) 0) (( "r" "a" "n" ) 0) ))
+
+514:2 शिरोमणि	(set! wordstruct '( (( "sh" "i" ) 0) (( "r" "o" "m" ) 0) (( "nx" "i" ) 0) ))
+
+514:3 शिरोमणि	(set! wordstruct '( (( "sh" "i" ) 0) (( "r" "o" ) 0) (( "m" "a" ) 0) (( "nx" "i" ) 0) ))
+
+515:2 शिलाद्र	(set! wordstruct '( (( "sh" "i" ) 0) (( "l" "aa" "d" "r" ) 0) ))
+
+515:3 शिलाद्र	(set! wordstruct '( (( "sh" "i" ) 0) (( "l" "aa" ) 0) (( "d" "r" "a" ) 0) ))
+
+518:2 शिवमणि	(set! wordstruct '( (( "sh" "i" ) 0) (( "w" "a" "m" ) 0) (( "nx" "i" ) 0) ))
+
+518:3 शिवमणि	(set! wordstruct '( (( "sh" "i" "w" ) 0) (( "m" "a" ) 0) (( "nx" "i" ) 0) ))
+
+521:2 शीतलता	(set! wordstruct '( (( "sh" "ii" ) 0) (( "t" "a" "l" ) 0) (( "t" "aa" ) 0) ))
+
+521:3 शीतलता	(set! wordstruct '( (( "sh" "ii" "t" ) 0) (( "l" "a" ) 0) (( "t" "aa" ) 0) ))
+
+522:2 शीलवती	(set! wordstruct '( (( "sh" "ii" ) 0) (( "l" "a" "w" ) 0) (( "t" "ii" ) 0) ))
+
+522:3 शीलवती	(set! wordstruct '( (( "sh" "ii" "l" ) 0) (( "w" "a" ) 0) (( "t" "ii" ) 0) ))
+
+529:2 श्रीनगर	(set! wordstruct '( (( "sh" "r" "ii" "n" ) 0) (( "g" "a" "r" ) 0) ))
+
+529:3 श्रीनगर	(set! wordstruct '( (( "sh" "r" "ii" ) 0) (( "n" "a" ) 0) (( "g" "a" "r" ) 0) ))
+
+531:2 श्रीमती	(set! wordstruct '( (( "sh" "r" "ii" "m" ) 0) (( "t" "ii" ) 0) ))
+
+531:3 श्रीमती	(set! wordstruct '( (( "sh" "r" "ii" ) 0) (( "m" "a" ) 0) (( "t" "ii" ) 0) ))
+
+535:2 संकल्प	(set! wordstruct '( (( "s" "a" "q" ) 0) (( "k" "a" "l" "p" ) 0) ))
+
+535:3 संकल्प	(set! wordstruct '( (( "s" "a" "q" "k" ) 0) (( "l" "p" "a" ) 0) ))
+
+536:2 संकेतनों	(set! wordstruct '( (( "s" "a" "q" ) 0) (( "k" "ee" "t" ) 0) (( "n" "o" "q" ) 0) ))
+
+536:3 संकेतनों	(set! wordstruct '( (( "s" "a" "q" ) 0) (( "k" "ee" ) 0) (( "t" "a" ) 0) (( "n" "o" "q" ) 0) ))
+
+539:2 संयंत्र	(set! wordstruct '( (( "s" "a" "q" ) 0) (( "y" "a" "q" "t" "r" ) 0) ))
+
+539:3 संयंत्र	(set! wordstruct '( (( "s" "a" "q" ) 0) (( "y" "a" "q" ) 0) (( "t" "r" "a" ) 0) ))
+
+545:2 सदाबहार	(set! wordstruct '( (( "s" "a" ) 0) (( "d" "aa" "b" ) 0) (( "h" "aa" "r" ) 0) ))
+
+545:3 सदाबहार	(set! wordstruct '( (( "s" "a" ) 0) (( "d" "aa" ) 0) (( "b" "a" ) 0) (( "h" "aa" "r" ) 0) ))
+
+548:2 समकक्ष	(set! wordstruct '( (( "s" "a" "m" ) 0) (( "k" "a" "k" "sx" ) 0) ))
+
+548:3 समकक्ष	(set! wordstruct '( (( "s" "a" ) 0) (( "m" "a" "k" ) 0) (( "k" "sx" "a" ) 0) ))
+
+553:2 सरकते	(set! wordstruct '( (( "s" "a" ) 0) (( "r" "a" "k" ) 0) (( "t" "ee" ) 0) ))
+
+553:3 सरकते	(set! wordstruct '( (( "s" "a" "r" ) 0) (( "k" "a" ) 0) (( "t" "ee" ) 0) ))
+
+559:2 सरसरी	(set! wordstruct '( (( "s" "a" ) 0) (( "r" "a" "s" ) 0) (( "r" "ii" ) 0) ))
+
+559:3 सरसरी	(set! wordstruct '( (( "s" "a" "r" ) 0) (( "s" "a" ) 0) (( "r" "ii" ) 0) ))
+
+562:2 सर्वत्र	(set! wordstruct '( (( "s" "a" "r" ) 0) (( "w" "a" "t" "r" ) 0) ))
+
+562:3 सर्वत्र	(set! wordstruct '( (( "s" "a" "r" "w" ) 0) (( "t" "r" "a" ) 0) ))
+
+563:2 सर्वहारा	(set! wordstruct '( (( "s" "a" "r" ) 0) (( "w" "a" ) 0) (( "h" "aa" ) 0) (( "r" "aa" ) 0) ))
+
+563:3 सर्वहारा	(set! wordstruct '( (( "s" "a" "r" "w" ) 0) (( "h" "aa" ) 0) (( "r" "aa" ) 0) ))
+
+565:2 सहमति	(set! wordstruct '( (( "s" "a" ) 0) (( "h" "a" "m" ) 0) (( "t" "i" ) 0) ))
+
+565:3 सहमति	(set! wordstruct '( (( "s" "a" "h" ) 0) (( "m" "a" ) 0) (( "t" "i" ) 0) ))
+
+566:2 सहेजती	(set! wordstruct '( (( "s" "a" ) 0) (( "h" "ee" "j" ) 0) (( "t" "ii" ) 0) ))
+
+566:3 सहेजती	(set! wordstruct '( (( "s" "a" ) 0) (( "h" "ee" ) 0) (( "j" "a" ) 0) (( "t" "ii" ) 0) ))
+
+580:2 सुनहरा	(set! wordstruct '( (( "s" "u" ) 0) (( "n" "a" "h" ) 0) (( "r" "aa" ) 0) ))
+
+580:3 सुनहरा	(set! wordstruct '( (( "s" "u" "n" ) 0) (( "h" "a" ) 0) (( "r" "aa" ) 0) ))
+
+581:2 सुनहरी	(set! wordstruct '( (( "s" "u" ) 0) (( "n" "a" "h" ) 0) (( "r" "ii" ) 0) ))
+
+581:3 सुनहरी	(set! wordstruct '( (( "s" "u" "n" ) 0) (( "h" "a" ) 0) (( "r" "ii" ) 0) ))
+
+584:2 सेनापति	(set! wordstruct '( (( "s" "ee" ) 0) (( "n" "aa" "p" ) 0) (( "t" "i" ) 0) ))
+
+584:3 सेनापति	(set! wordstruct '( (( "s" "ee" ) 0) (( "n" "aa" ) 0) (( "p" "a" ) 0) (( "t" "i" ) 0) ))
+
+589:2 स्तरहीन	(set! wordstruct '( (( "s" "t" "a" ) 0) (( "r" "a" ) 0) (( "h" "ii" "n" ) 0) ))
+
+589:3 स्तरहीन	(set! wordstruct '( (( "s" "t" "a" "r" ) 0) (( "h" "ii" "n" ) 0) ))
+
+590:2 स्थापना	(set! wordstruct '( (( "s" "th" "aa" "p" ) 0) (( "n" "aa" ) 0) ))
+
+590:3 स्थापना	(set! wordstruct '( (( "s" "th" "aa" ) 0) (( "p" "a" ) 0) (( "n" "aa" ) 0) ))
+
+593:2 हमलावरों	(set! wordstruct '( (( "h" "a" "m" ) 0) (( "l" "aa" "w" ) 0) (( "r" "o" "q" ) 0) ))
+
+593:3 हमलावरों	(set! wordstruct '( (( "h" "a" "m" ) 0) (( "l" "aa" ) 0) (( "w" "a" ) 0) (( "r" "o" "q" ) 0) ))
+
+598:2 हस्तलिपि	(set! wordstruct '( (( "h" "a" "s" ) 0) (( "t" "a" ) 0) (( "l" "i" ) 0) (( "p" "i" ) 0) ))
+
+598:3 हस्तलिपि	(set! wordstruct '( (( "h" "a" "s" "t" ) 0) (( "l" "i" ) 0) (( "p" "i" ) 0) ))
+
+605:2 हैंडबॉल	(set! wordstruct '( (( "h" "ei" "q" ) 0) (( "dx" "a" ) 0) (( "b" "ax" "l" ) 0) ))
+
+605:3 हैंडबॉल	(set! wordstruct '( (( "h" "ei" "q" "dx" ) 0) (( "b" "ax" "l" ) 0) ))
+
+613:2 ज़ोरज़ोर	(set! wordstruct '( (( "z" "o" ) 0) (( "r" "a" ) 0) (( "z" "o" "r" ) 0) ))
+
+613:3 ज़ोरज़ोर	(set! wordstruct '( (( "z" "o" "r" ) 0) (( "z" "o" "r" ) 0) ))
+

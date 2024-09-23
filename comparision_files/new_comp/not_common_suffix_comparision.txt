@@ -1,0 +1,40 @@
+0:2 प्रहरी	(set! wordstruct '( (( "p" "r" "a" "h" ) 0) (( "r" "ii" ) 0) ))
+
+0:3 प्रहरी	(set! wordstruct '( (( "p" "r" "a" ) 0) (( "h" "a" ) 0) (( "r" "ii" ) 0) ))
+
+2:2 सुनहरे	(set! wordstruct '( (( "s" "u" ) 0) (( "n" "a" "h" ) 0) (( "r" "ee" ) 0) ))
+
+2:3 सुनहरे	(set! wordstruct '( (( "s" "u" "n" ) 0) (( "h" "a" ) 0) (( "r" "ee" ) 0) ))
+
+8:2 अर्धशतक	(set! wordstruct '( (( "a" "r" ) 0) (( "dh" "a" "sh" ) 0) (( "t" "a" "k" ) 0) ))
+
+8:3 अर्धशतक	(set! wordstruct '( (( "a" "r" "dh" ) 0) (( "sh" "a" ) 0) (( "t" "a" "k" ) 0) ))
+
+9:2 कसावटभरी	(set! wordstruct '( (( "k" "a" ) 0) (( "s" "aa" "w" ) 0) (( "tx" "a" "bh" ) 0) (( "r" "ii" ) 0) ))
+
+9:3 कसावटभरी	(set! wordstruct '( (( "k" "a" ) 0) (( "s" "aa" ) 0) (( "w" "a" "tx" ) 0) (( "bh" "a" ) 0) (( "r" "ii" ) 0) ))
+
+11:2 इन्द्र	(set! wordstruct '( (( "i" "n" "d" "r" ) 0) ))
+
+11:3 इन्द्र	(set! wordstruct '( (( "i" "n" ) 0) (( "d" "r" "a" ) 0) ))
+
+15:2 दृढ़संकल्प	(set! wordstruct '( (( "d" "rq" "dxhq" ) 0) (( "s" "a" "q" ) 0) (( "k" "a" "l" "p" ) 0) ))
+
+15:3 दृढ़संकल्प	(set! wordstruct '( (( "d" "rq" "dxhq" ) 0) (( "s" "a" "q" "k" ) 0) (( "l" "p" "a" ) 0) ))
+
+18:2 दसहरी	(set! wordstruct '( (( "d" "a" ) 0) (( "s" "a" "h" ) 0) (( "r" "ii" ) 0) ))
+
+18:3 दसहरी	(set! wordstruct '( (( "d" "a" "s" ) 0) (( "h" "a" ) 0) (( "r" "ii" ) 0) ))
+
+21:2 सभापति	(set! wordstruct '( (( "s" "a" ) 0) (( "bh" "aa" "p" ) 0) (( "t" "i" ) 0) ))
+
+21:3 सभापति	(set! wordstruct '( (( "s" "a" ) 0) (( "bh" "aa" ) 0) (( "p" "a" ) 0) (( "t" "i" ) 0) ))
+
+24:2 संकल्प	(set! wordstruct '( (( "s" "a" "q" ) 0) (( "k" "a" "l" "p" ) 0) ))
+
+24:3 संकल्प	(set! wordstruct '( (( "s" "a" "q" "k" ) 0) (( "l" "p" "a" ) 0) ))
+
+32:2 उल्लसित	(set! wordstruct '( (( "u" "l" ) 0) (( "l" "a" ) 0) (( "s" "i" "t" ) 0) ))
+
+32:3 उल्लसित	(set! wordstruct '( (( "u" "l" "l" ) 0) (( "s" "i" "t" ) 0) ))
+
